@@ -7,5 +7,3 @@ Eu sou Otávio Braga
 </div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
