@@ -18,8 +18,13 @@ Atualmente estou estudando:
 
 Meu objetivo é conquistar uma oportunidade como **Desenvolvedor Java Estagiário ou Júnior**, onde eu possa aprender com profissionais experientes, contribuir para projetos reais e evoluir constantemente como desenvolvedor.
 
+
 ==== Linguagem ====
+
 
 <div>
  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/img>
 </div>
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
